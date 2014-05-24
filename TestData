@@ -1,0 +1,19 @@
+ 
+Test Data Used:
+
+1. Sign in : 
+  username : b		 password : c
+  username : cmpe	 password : 275
+    
+2. Sign up :
+  first name : a	 username : b		 password : c
+  first name : CMPE 275	 username : cmpe	 password : 275  
+
+3. Course :
+  course id : 1		 course name : cmpe 275	 course desc : Enterprise app dev
+  course id : 2		 course name : cmpe 273	 course desc : Enterprise dist sys
+
+4. Course List : 
+  course id : 1		 course name : cmpe 275	 course desc : Enterprise app dev
+  course id : 2		 course name : cmpe 273	 course desc : Enterprise dist sys
+
